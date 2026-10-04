@@ -1,0 +1,77 @@
+.:
+total 12
+drwxrwxr-x 3 abood abood 4096 Oct  4 02:26 .
+drwxrwxr-x 3 abood abood 4096 Oct  4 02:21 ..
+drwxrwxr-x 6 abood abood 4096 Oct  4 02:23 .git
+-rw-rw-r-- 1 abood abood    0 Oct  4 02:26 t.txt
+
+./.git:
+total 36
+drwxrwxr-x 6 abood abood 4096 Oct  4 02:23 .
+drwxrwxr-x 3 abood abood 4096 Oct  4 02:26 ..
+-rw-rw-r-- 1 abood abood   92 Oct  4 02:23 config
+-rw-rw-r-- 1 abood abood   73 Oct  4 02:23 description
+-rw-rw-r-- 1 abood abood   23 Oct  4 02:23 HEAD
+drwxrwxr-x 2 abood abood 4096 Oct  4 02:23 hooks
+drwxrwxr-x 2 abood abood 4096 Oct  4 02:23 info
+drwxrwxr-x 4 abood abood 4096 Oct  4 02:23 objects
+drwxrwxr-x 4 abood abood 4096 Oct  4 02:23 refs
+
+./.git/hooks:
+total 72
+drwxrwxr-x 2 abood abood 4096 Oct  4 02:23 .
+drwxrwxr-x 6 abood abood 4096 Oct  4 02:23 ..
+-rwxrwxr-x 1 abood abood  478 Oct  4 02:23 applypatch-msg.sample
+-rwxrwxr-x 1 abood abood  896 Oct  4 02:23 commit-msg.sample
+-rwxrwxr-x 1 abood abood 4726 Oct  4 02:23 fsmonitor-watchman.sample
+-rwxrwxr-x 1 abood abood  189 Oct  4 02:23 post-update.sample
+-rwxrwxr-x 1 abood abood  424 Oct  4 02:23 pre-applypatch.sample
+-rwxrwxr-x 1 abood abood 1649 Oct  4 02:23 pre-commit.sample
+-rwxrwxr-x 1 abood abood  416 Oct  4 02:23 pre-merge-commit.sample
+-rwxrwxr-x 1 abood abood 1492 Oct  4 02:23 prepare-commit-msg.sample
+-rwxrwxr-x 1 abood abood 1374 Oct  4 02:23 pre-push.sample
+-rwxrwxr-x 1 abood abood 4898 Oct  4 02:23 pre-rebase.sample
+-rwxrwxr-x 1 abood abood  544 Oct  4 02:23 pre-receive.sample
+-rwxrwxr-x 1 abood abood 2783 Oct  4 02:23 push-to-checkout.sample
+-rwxrwxr-x 1 abood abood 2308 Oct  4 02:23 sendemail-validate.sample
+-rwxrwxr-x 1 abood abood 3650 Oct  4 02:23 update.sample
+
+./.git/info:
+total 12
+drwxrwxr-x 2 abood abood 4096 Oct  4 02:23 .
+drwxrwxr-x 6 abood abood 4096 Oct  4 02:23 ..
+-rw-rw-r-- 1 abood abood  240 Oct  4 02:23 exclude
+
+./.git/objects:
+total 16
+drwxrwxr-x 4 abood abood 4096 Oct  4 02:23 .
+drwxrwxr-x 6 abood abood 4096 Oct  4 02:23 ..
+drwxrwxr-x 2 abood abood 4096 Oct  4 02:23 info
+drwxrwxr-x 2 abood abood 4096 Oct  4 02:23 pack
+
+./.git/objects/info:
+total 8
+drwxrwxr-x 2 abood abood 4096 Oct  4 02:23 .
+drwxrwxr-x 4 abood abood 4096 Oct  4 02:23 ..
+
+./.git/objects/pack:
+total 8
+drwxrwxr-x 2 abood abood 4096 Oct  4 02:23 .
+drwxrwxr-x 4 abood abood 4096 Oct  4 02:23 ..
+
+./.git/refs:
+total 16
+drwxrwxr-x 4 abood abood 4096 Oct  4 02:23 .
+drwxrwxr-x 6 abood abood 4096 Oct  4 02:23 ..
+drwxrwxr-x 2 abood abood 4096 Oct  4 02:23 heads
+drwxrwxr-x 2 abood abood 4096 Oct  4 02:23 tags
+
+./.git/refs/heads:
+total 8
+drwxrwxr-x 2 abood abood 4096 Oct  4 02:23 .
+drwxrwxr-x 4 abood abood 4096 Oct  4 02:23 ..
+
+./.git/refs/tags:
+total 8
+drwxrwxr-x 2 abood abood 4096 Oct  4 02:23 .
+drwxrwxr-x 4 abood abood 4096 Oct  4 02:23 ..
